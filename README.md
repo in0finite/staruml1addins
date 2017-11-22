@@ -5,9 +5,9 @@ Collection of addins for [staruml v1](http://staruml.sourceforge.net/v1/).
 
 # List of addins
 
-- Generation of getters
-- Generation of setters
-- Generation of constructors
+- Automatic generation of getters - generates getters for all non-public attributes for all classes in the current project
+- -||- of setters -||-
+- -||- of constructors - generates constructors for all classes in the current project, using all non-static attributes as parameters
 
 # Download
 
