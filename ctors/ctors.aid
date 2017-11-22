@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <ADDIN>
+    <NAME>Constructors AddIn</NAME>
+    <DISPLAYNAME>Generate constructors</DISPLAYNAME>
+    <COMPANY>I am not owned by any company, haa !</COMPANY>
+    <COPYRIGHT>MIT license github.com/in0finite</COPYRIGHT>
+    <HELPFILE>http://www.google.com</HELPFILE>
+    <ICONFILE></ICONFILE>
+    <ISACTIVE>True</ISACTIVE>
+    <MENUFILE>ctors.mnu</MENUFILE>
+    <VERSION>1.0.1.1</VERSION>
+</ADDIN>

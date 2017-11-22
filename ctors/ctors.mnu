@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<ADDINMENU addInID="StarUML.GenerateCtorsAddIn">
+    <BODY>
+        <MAINMENU>
+            <MAINITEM base="TOOLS" caption="Generate constructors" availableWhen="PROJECT_OPENED"
+                script="ctors.js"/>
+        </MAINMENU>
+    </BODY>
+</ADDINMENU>

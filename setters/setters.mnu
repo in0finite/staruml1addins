@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<ADDINMENU addInID="StarUML.GenerateSettersAddIn">
+    <BODY>
+        <MAINMENU>
+            <MAINITEM base="TOOLS" caption="Generate setters" availableWhen="PROJECT_OPENED"
+                script="setters.js"/>
+        </MAINMENU>
+    </BODY>
+</ADDINMENU>

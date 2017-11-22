@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<ADDINMENU addInID="StarUML.GenerateGettersAddIn">
+    <BODY>
+        <MAINMENU>
+            <MAINITEM base="TOOLS" caption="Generate getters" availableWhen="PROJECT_OPENED"
+                script="getters.js"/>
+        </MAINMENU>
+    </BODY>
+</ADDINMENU>
